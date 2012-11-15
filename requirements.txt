@@ -1,0 +1,7 @@
+nose
+django
+mysql-python
+sqlalchemy
+pep8
+eventlet
+tornado
