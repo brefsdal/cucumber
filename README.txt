@@ -1,6 +1,22 @@
 11/23/2012
 
-Mac OSX 10.7.5
+Cucumber Bootstrap includes
+- Twitter-bootstrap
+- Slickgrid
+- flot.js
+- jquery
+- underscore.js
+- backbone.js
+- backbone.js example todos.js
+- Python dependency stack
+  * MySQL
+  * Django
+  * Tornado
+  * eventlet
+  * jinja2 templating
+
+
+Installing on Mac OSX 10.7.5
 
 1)
 Download and install Python 2.7.3 64-bit dmg from python.org
